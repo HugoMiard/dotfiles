@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hugomiard@yahoo.com
+	name = Hugo Miard
